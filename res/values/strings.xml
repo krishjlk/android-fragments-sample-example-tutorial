@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FragmentsBasicActivity!</string>
+    <string name="app_name">FragmentsBasic</string>
+    
+    <string name="fragment_a1">Fragment A1</string>
+    <string name="fragment_a2">Fragment A2</string>
+    <string name="fragment_a3">Fragment A3</string>
+   
+    <string name="fragment_b1">Fragment B1</string>
+    <string name="fragment_b2">Fragment B2</string>
+    
+    
+    <string name="fragment_c1">Fragment C1</string>
+    
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+
+</resources>
