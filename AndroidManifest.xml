@@ -4,6 +4,9 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
+    
+    <!-- Test change -->
+    
     <uses-sdk android:minSdkVersion="7" />
 
     <application
